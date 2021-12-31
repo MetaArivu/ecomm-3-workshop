@@ -19,3 +19,11 @@ This demo focus on deployment of Shopping Portal Microservice on Kubernetes with
 <img width="1680" alt="8-4-Grafana" src="https://user-images.githubusercontent.com/23295769/147805497-b68c3dd3-4b86-40eb-9473-478bc78323b5.png">
 <img width="1668" alt="8-5-Grafana" src="https://user-images.githubusercontent.com/23295769/147805498-0c5c7534-80b7-4363-b592-2b27d0ce9724.png">
 
+
+## License  
+
+Copyright © [MetaMagic Global Inc](http://www.metamagicglobal.com/), 2021-22.  All rights reserved.
+
+Licensed under the Apache 2.0 License.
+
+**Enjoy!**
