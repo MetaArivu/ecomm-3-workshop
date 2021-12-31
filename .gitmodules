@@ -1,0 +1,18 @@
+[submodule "5-App/ms-shopping-portal-ui"]
+	path = 5-App/ms-shopping-portal-ui
+	url = https://github.com/MetaArivu/ms-shopping-portal-ui.git
+[submodule "5-App/ms-product-review-service"]
+	path = 5-App/ms-product-review-service
+	url = https://github.com/MetaArivu/ms-product-review-service.git
+[submodule "5-App/ms-product-service"]
+	path = 5-App/ms-product-service
+	url = https://github.com/MetaArivu/ms-product-service.git
+[submodule "5-App/ms-order-service"]
+	path = 5-App/ms-order-service
+	url = https://github.com/MetaArivu/ms-order-service.git
+[submodule "5-App/ms-payment-service"]
+	path = 5-App/ms-payment-service
+	url = https://github.com/MetaArivu/ms-payment-service.git
+[submodule "5-App/ms-cart-service"]
+	path = 5-App/ms-cart-service
+	url = https://github.com/MetaArivu/ms-cart-service.git
