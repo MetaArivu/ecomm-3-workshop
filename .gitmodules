@@ -16,3 +16,6 @@
 [submodule "5-App/ms-cart-service"]
 	path = 5-App/ms-cart-service
 	url = https://github.com/MetaArivu/ms-cart-service.git
+[submodule "5-App/ms-user-service"]
+	path = 5-App/ms-user-service
+	url = https://github.com/MetaArivu/ms-user-service.git
